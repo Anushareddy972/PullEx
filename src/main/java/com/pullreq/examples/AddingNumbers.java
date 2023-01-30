@@ -6,6 +6,7 @@ public class AddingNumbers {
     int b=30;
     System.out.println("addition of two numbers:"+(a+b));
     System.out.println("Anusha");
+
   }
    
 }
